@@ -1,4 +1,4 @@
-### velominds.github.io
+### https://velominds.github.io/
 
 #### info
 
