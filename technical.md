@@ -1,4 +1,4 @@
-l{% include header.html %}
+{% include header.html %}
 
 # Velominds
 ### Making sense of renovated eroica velos
