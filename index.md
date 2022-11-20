@@ -11,7 +11,8 @@
 
 <animatable-component autoplay iterations="3" animation="heartBeat" easing="ease-in" duration="1000">
   <h1>Proof that Tony Stark has a heart ✵</h1>
-</animatable-component>velominds
+</animatable-component>
+
 
 ![image](TH123v2.png)
 
