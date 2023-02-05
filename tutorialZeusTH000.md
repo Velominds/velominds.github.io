@@ -8,7 +8,6 @@
 
 <small> 
 Components
-Zeus early 80 anil
 * frame: Zeus pista eroica from the 80's with Reynolds 531 tube
 * fork: Handcrafted with polished stainless steel crown by Andres Arregui (http://arreguivelazquez.com/) 
 * rims: Mavic endurance A719
