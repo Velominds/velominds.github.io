@@ -1,6 +1,6 @@
 {% include header.html %}
 
-![](velominds.png)
+
 
 ### Long term rental of eroica bicycles converted to e-velos to minimize raw materials and energy consumption
 <p> contact velominds@gmail.com for long-term rental </p>
@@ -13,6 +13,7 @@
 
 <p>This is Velominds.</p>
 <p>We love bikes.</p>
+![](velominds.png)
 <p>We convert eroicas to electric bikes</p>
 <p>We love sustainability</p>
 

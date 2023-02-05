@@ -2,7 +2,7 @@
 
 # ZeusTH123
 
-![velominds](TH123v1.jpg)
+![velominds](TH123v2.png)
 
 <a href="https://www.instagram.com/velominds/">instagram</a> <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pinterest</a> 
 
