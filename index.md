@@ -4,12 +4,13 @@
 <animatable-component autoplay iterations="3" animation="heartBeat" easing="ease-in" duration="1000">
 <h1> ✵✵✵✵✵</h1>
 
-Hello there,
+<p>Hello there,</p>
 
-This is Velominds. 
-We love bikes.
-We convert eroicas to electric bikes
-We love sustainability
+<p>This is Velominds.</p>
+<p>We love bikes.</p>
+<p>We convert eroicas to electric bikes</p>
+<p>We love sustainability</p>
+
 </animatable-component>
 
 ![](velominds.png)
