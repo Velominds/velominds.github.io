@@ -4,7 +4,7 @@
 <p> contact velominds@gmail.com for long-term rental </p>
 
 <animatable-component autoplay iterations="3" animation="heartBeat" easing="ease-in" duration="1000">
-![](velominds.png)
+
 <h1> ✵✵✵✵✵</h1>
 
 <p>Hello there,</p>
@@ -15,4 +15,5 @@
 <p>We love sustainability</p>
 
 </animatable-component>
+![](velominds.png)
 

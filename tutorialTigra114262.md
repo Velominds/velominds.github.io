@@ -6,7 +6,6 @@
 
 <a href="https://www.instagram.com/velominds/">instagram</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pinterest</a> 
 
-```
 <small>
 Components
 * frame: Zeus pista from the 80's with Reynolds SMS tube
@@ -26,5 +25,3 @@ Components
 * saddle: Condor
 * seatpost: Zeus 2000 polished. 
 </small>
-```
-
