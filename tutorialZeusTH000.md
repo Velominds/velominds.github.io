@@ -1,20 +1,10 @@
 {% include header.html %}
 
-# ZeusTH000
+# ZeusTH000 contact velominds@gmail.com for long-term rental
 
-![velominds](TH000v1.jpg)
+![velominds](Tigra114262.jpg)
 
-<a href="https://www.instagram.com/velominds/">Zeus TH000 pictures</a>
-
-<a href="https://www.pinterest.ch/velominds/circular-concept-iii/">Zeus TH000 pictures</a> 
-
-
-```
-Rental
-Please for long term rental contact: 
-velominds@gmail.com 
-to discuss the rental procedure. 
-```
+<a href="https://www.instagram.com/velominds/">Zeus TH000 pictures</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">Zeus TH000 pictures</a> 
 
 ```
 Components
