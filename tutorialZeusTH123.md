@@ -2,12 +2,13 @@
 
 # ZeusTH123
 
-![velominds](TH123v2.png)
+![velominds](TH123v1.jpg)
+
+<a href="https://www.instagram.com/velominds/">pictures</a>
+<a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pictures</a> 
 
 ```
 Pictures
-instagram: https://www.instagram.com/velominds/
-pinterest: https://www.pinterest.ch/velominds/circular-concept-iii/
 ```
 
 ```

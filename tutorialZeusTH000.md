@@ -4,15 +4,17 @@
 
 ![velominds](TH000v1.jpg)
 
-```
-Pictures
 <a href="https://www.instagram.com/velominds/">pictures</a>
 <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pictures</a> 
+
+```
+Pictures
 ```
 
 ```
 Rental
-Please for long term rental contact: velominds@gmail.com to discuss the rental procedure. 
+Please for long term rental contact: 
+velominds@gmail.com to discuss the rental procedure. 
 ```
 
 ```
