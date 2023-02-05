@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/velominds/">instagram</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pinterest</a> 
 
 ```
-Components
+<small> Components
 Zeus early 80 anil
 * frame: Zeus pista eroica from the 80's with Reynolds 531 tube
 * fork: Handcrafted with polished stainless steel crown by Andres Arregui (http://arreguivelazquez.com/) 
@@ -27,6 +27,6 @@ Zeus early 80 anil
 * pedal: Zeus pista
 * saddle: Zeus
 * seatpost: Zeus 2000 polished
-
+</small>
 ```
 

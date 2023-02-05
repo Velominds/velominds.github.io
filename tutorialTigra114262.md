@@ -7,6 +7,7 @@
 <a href="https://www.instagram.com/velominds/">instagram</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pinterest</a> 
 
 ```
+<small>
 Components
 * frame: Zeus pista from the 80's with Reynolds SMS tube
 * fork: Handcrafted and disc brake ready with polished stainless steel crown by Andres Arregui (http://arreguivelazquez.com/)
@@ -24,5 +25,6 @@ Components
 * pedal: Zeus * supercronos
 * saddle: Condor
 * seatpost: Zeus 2000 polished. 
+</small>
 ```
 
