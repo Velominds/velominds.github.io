@@ -1,6 +1,6 @@
 {% include header.html %}
 
-### Eroica to e-velo conversion to minimize raw materials and energy powering decentralization and sustainability 
+### Long term rental of eroica converted to e-velo to minimize raw materials and energy power
 <animatable-component autoplay iterations="3" animation="heartBeat" easing="ease-in" duration="1000">
 <h1> ✵✵✵✵✵</h1>
 </animatable-component>
