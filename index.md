@@ -9,11 +9,13 @@
 
 <h1> ✵✵✵✵✵</h1>
 
+![left](velominds.png)
+
 <p>Hello there,</p>
 
 <p>This is Velominds.</p>
 <p>We love bikes.</p>
-![](velominds.png)
+
 <p>We convert eroicas to electric bikes</p>
 <p>We love sustainability</p>
 
