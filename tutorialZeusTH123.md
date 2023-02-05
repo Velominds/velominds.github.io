@@ -1,20 +1,22 @@
 {% include header.html %}
 
 # ZeusTH123
-### Zeus framenumber TH123 
 
 ![velominds](TH123v2.png)
 
-```Pictures
+```
+Pictures
 instagram: https://www.instagram.com/velominds/
 pinterest: https://www.pinterest.ch/velominds/circular-concept-iii/
 ```
 
-```Rental
+```
+Rental
 Please for long term rental contact: velominds@gmail.com to discuss the rental procedure. 
 ```
 
-```Components
+```
+Components
 * frame: Zeus pista from the 80's with Reynolds SMS tube
 * fork: Handcrafted and disc brake ready with polished stainless steel crown by Andres Arregui (http://arreguivelazquez.com/)
 * rims: Mavic endurance A719 – spokes: Sapim race black – 
