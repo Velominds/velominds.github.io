@@ -4,7 +4,7 @@
 
 ![velominds](TH123v1.jpg)
 
-<a href="https://www.instagram.com/velominds/">Tigra 114262</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">Zeus TH123 pictures</a> 
+<a href="https://www.instagram.com/velominds/">instagram</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pinterest</a> 
 
 ```
 Components

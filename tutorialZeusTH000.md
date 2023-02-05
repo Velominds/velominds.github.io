@@ -1,10 +1,10 @@
 {% include header.html %}
 
-# ZeusTH000 contact velominds@gmail.com for long-term rental
+# ZeusTH000
 
 ![velominds](Tigra114262.jpg)
 
-<a href="https://www.instagram.com/velominds/">Zeus TH000 pictures</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">Zeus TH000 pictures</a> 
+<a href="https://www.instagram.com/velominds/">instagram</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pinterest</a> 
 
 ```
 Components
