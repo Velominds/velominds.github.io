@@ -1,13 +1,12 @@
 {% include header.html %}
 
-# Colnago2B666 In Progress
+# Colnago2B666 In progress
 
 ![velominds](Colnago2B666.jpg)
 
 <a href="https://www.instagram.com/velominds/">instagram</a>  <a href="https://www.pinterest.ch/velominds/circular-concept-iii/">pinterest</a> 
 
-<small> 
-Components
+<small> Components
 * frame: Colnago 80's Columbus Acciaio 54cm
 * fork: Handcrafted with polished stainless steel crown by Andres Arregui (http://arreguivelazquez.com/) 
 * rims: Mavic endurance A719
