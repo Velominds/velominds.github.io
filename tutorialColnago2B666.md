@@ -1,6 +1,6 @@
 {% include header.html %}
 
-# Colnago 2B666
+# Colnago2B666
 
 ![velominds](Colnago2B666.jpg)
 
